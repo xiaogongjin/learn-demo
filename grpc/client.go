@@ -1,4 +1,4 @@
-package main
+package grpc
 
 import (
 	pb "./proto" // 引入proto包

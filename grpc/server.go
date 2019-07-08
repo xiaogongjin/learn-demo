@@ -1,4 +1,4 @@
-package main
+package grpc
 import (
 	"net"
 	pb "./proto" // 引入编译生成的包
